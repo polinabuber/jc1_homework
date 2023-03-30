@@ -1,4 +1,4 @@
-package part1.task5;
+package part2.task5;
 
 public class SumAndReturn {
     public static void main(String[] args) {

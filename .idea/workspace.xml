@@ -4,21 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a85712ec-aa09-4c61-8026-bc64c79bf1b2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jc1_homework.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/part1/task1/HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/part1/task2/HelloBelarus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/part1/task3/HelloBelAndJava.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/part1/task4/DataTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/part1/task5/SumAndReturn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/part1/task6/Convert.java" afterDir="false" />
+    <list default="true" id="a85712ec-aa09-4c61-8026-bc64c79bf1b2" name="Changes" comment="///">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/part1/task3/HelloBelAndJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/part1/task3/HelloBelAndJava.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/part1/task4/DataTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/part2/task4/DataTypes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/part1/task5/SumAndReturn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/part2/task5/SumAndReturn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/part1/task6/Convert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/part2/task6/Convert.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,21 +34,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "onboarding.tips.debug.path": "C:/Users/Lenovo/IdeaProjects/jc1_homework/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Lenovo/IdeaProjects/jc1_homework/src/Main.java&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Convert">
+}</component>
+  <component name="RunManager" selected="Application.part2.task6.Convert">
     <configuration name="Convert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="part1.task6.Convert" />
+      <option name="MAIN_CLASS_NAME" value="part2.Convert" />
       <module name="jc1_homework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="part1.task6.*" />
+          <option name="PATTERN" value="part2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,11 +57,11 @@
       </method>
     </configuration>
     <configuration name="DataTypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="part1.task4.DataTypes" />
+      <option name="MAIN_CLASS_NAME" value="part2.task4.DataTypes" />
       <module name="jc1_homework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="part1.task4.*" />
+          <option name="PATTERN" value="part2.task4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="part1.task1.HelloWorld" />
+    <configuration name="SumAndReturn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="part2.task5.SumAndReturn" />
       <module name="jc1_homework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="part1.task1.*" />
+          <option name="PATTERN" value="part2.task5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumAndReturn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="part1.task5.SumAndReturn" />
+    <configuration name="part2.task6.Convert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="part2.task6.Convert" />
       <module name="jc1_homework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="part1.task5.*" />
+          <option name="PATTERN" value="part2.task6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,19 +110,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.part2.task6.Convert" />
       <item itemvalue="Application.Convert" />
       <item itemvalue="Application.DataTypes" />
       <item itemvalue="Application.SumAndReturn" />
       <item itemvalue="Application.HelloBelAndJava" />
-      <item itemvalue="Application.HelloWorld" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.part2.task6.Convert" />
+        <item itemvalue="Application.HelloBelAndJava" />
         <item itemvalue="Application.Convert" />
         <item itemvalue="Application.SumAndReturn" />
         <item itemvalue="Application.DataTypes" />
-        <item itemvalue="Application.HelloBelAndJava" />
-        <item itemvalue="Application.HelloWorld" />
       </list>
     </recent_temporary>
   </component>
@@ -144,7 +135,19 @@
       <option name="presentableId" value="Default" />
       <updated>1680037674888</updated>
     </task>
+    <task id="LOCAL-00001" summary="///">
+      <created>1680038387693</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680038387693</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="///" />
+    <option name="LAST_COMMIT_MESSAGE" value="///" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

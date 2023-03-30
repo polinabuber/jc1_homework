@@ -1,4 +1,4 @@
-package part1.task4;
+package part2.task4;
 
 public class DataTypes {
     public static void main(String[] args) {
