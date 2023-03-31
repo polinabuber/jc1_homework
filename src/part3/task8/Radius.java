@@ -8,9 +8,9 @@ public class Radius {
         int b = 10;
 
         if (2 * r >= Math.sqrt(a * a + b * b)) {
-            System.out.println("Диаметр окружности покрывает размер прямоугольного отверстия");
+            System.out.println("Покрывает");
         } else {
-            System.out.println("Диаметр окружности не покрывает размер прямоугольного отверстия");
+            System.out.println("Не покрывает");
         }
 
     }
