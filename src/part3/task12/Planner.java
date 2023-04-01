@@ -2,7 +2,7 @@ package part3.task12;
 
 public class Planner {
     public static void main(String[] args) {
-        int dayOfWeek = 7;
+        int dayOfWeek = 78;
         String day;
         switch (dayOfWeek) {
             case 1:
@@ -28,7 +28,6 @@ public class Planner {
                 break;
             default:
                 day = "День недели введён некорректно";
-                break;
         }
         System.out.println("Планы на этот день: " + day);
     }
