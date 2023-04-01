@@ -4,8 +4,8 @@ import java.util.Calendar;
 
 public class DayMonthYear {
     public static void main(String[] args) {
-        int day = 30;
-        int month = 6;
+        int day = 28;
+        int month = 2;
         int year = 2020;
 
         if (day == 28 && month == 2 && (((year % 4 == 0) && (year % 100 != 0)) || (year % 400 == 0))) {
