@@ -2,33 +2,33 @@ package part3.task12;
 
 public class Planner {
     public static void main(String[] args) {
-        int dayOfWeek = 78;
+        int dayOfWeek = 7;
         String day;
         switch (dayOfWeek) {
             case 1:
-                day = "Прыгать, бегать";
+                day = "\nTask №1\n"+"Task №2";
                 break;
             case 2:
-                day = "Смотреть в окно";
+                day = "\nTask №2\n"+"Task №3";
                 break;
             case 3:
-                day = "Кормить уток";
+                day = "\nTask №4\n"+"Task №5";
                 break;
             case 4:
-                day = "Играть с котом в бантик";
+                day = "\nTask №6\n"+"Task №7";
                 break;
             case 5:
-                day = "Отдых";
+                day = "\nTask №8\n"+"Task №9";
                 break;
             case 6:
-                day = "Собрать походный набор";
+                day = "\nTask №10\n"+"Task №11";
                 break;
             case 7:
-                day = "Найти пульт от кондиционера";
+                day = "\nTask №12\n"+"Task №13";
                 break;
             default:
-                day = "День недели введён некорректно";
+                day = "Error";
         }
-        System.out.println("Планы на этот день: " + day);
+        System.out.println("Schedule: " + day);
     }
 }
