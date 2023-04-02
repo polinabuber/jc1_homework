@@ -2,7 +2,7 @@ package part5.task24;
 
 public class Butterfly {
     public static void main(String[] args) {
-        int arr[][] = new int[3][3];
+        int[][] arr = new int[3][3];
         int i, j;
         for (i = 0; i < arr.length / 2; i++) {
             for (j = 0; j < arr[i].length; j++) {
