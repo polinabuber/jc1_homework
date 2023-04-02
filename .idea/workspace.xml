@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a85712ec-aa09-4c61-8026-bc64c79bf1b2" name="Changes" comment="///">
-      <change afterPath="$PROJECT_DIR$/src/part4/task18/RandomNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/part5/task23/ArrayReverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/part5/task24/Butterfly.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/part5/task22/ArraySum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/part5/task22/ArraySum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/part5/task24/Butterfly.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/part5/task24/Butterfly.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -211,7 +208,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680454380059</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="///">
+      <created>1680459076401</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1680459076401</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
