@@ -6,8 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="a85712ec-aa09-4c61-8026-bc64c79bf1b2" name="Changes" comment="///">
       <change afterPath="$PROJECT_DIR$/src/part4/task16/Break.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/part4/task17/Hope.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/part3/task11/Home.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/part3/task11/Home.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +40,7 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Lenovo/IdeaProjects/jc1_homework/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Break">
+  <component name="RunManager" selected="Application.Hope">
     <configuration name="Break" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="part4.task16.Break" />
       <module name="jc1_homework" />
@@ -80,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Kkk" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="part4.task14.Kkk" />
+    <configuration name="Hope" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="part4.task17.Hope" />
       <module name="jc1_homework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="part4.task14.*" />
+          <option name="PATTERN" value="part4.task17.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,19 +107,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Hope" />
       <item itemvalue="Application.Break" />
       <item itemvalue="Application.DoWhile" />
       <item itemvalue="Application.Hhh" />
-      <item itemvalue="Application.Kkk" />
       <item itemvalue="Application.Sum" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Hope" />
         <item itemvalue="Application.Break" />
         <item itemvalue="Application.Sum" />
         <item itemvalue="Application.DoWhile" />
         <item itemvalue="Application.Hhh" />
-        <item itemvalue="Application.Kkk" />
       </list>
     </recent_temporary>
   </component>
@@ -188,7 +188,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680383192289</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="///">
+      <created>1680431430844</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1680431430844</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
