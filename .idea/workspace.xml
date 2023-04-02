@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a85712ec-aa09-4c61-8026-bc64c79bf1b2" name="Changes" comment="///">
-      <change afterPath="$PROJECT_DIR$/src/part4/task16/Break.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/part4/task17/Hope.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/part4/task18/RandomNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/part5/task19/LastNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/part5/task20/AnotherArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/part5/task21/MaxElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/part5/task22/ArraySum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,13 +43,13 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Lenovo/IdeaProjects/jc1_homework/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Hope">
-    <configuration name="Break" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="part4.task16.Break" />
+  <component name="RunManager" selected="Application.MaxElement">
+    <configuration name="AnotherArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="part5.task20.AnotherArray" />
       <module name="jc1_homework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="part4.task16.*" />
+          <option name="PATTERN" value="part5.task20.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Hhh" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="part4.task15.Hhh" />
+    <configuration name="LastNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="part5.task19.LastNumber" />
       <module name="jc1_homework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="part4.task15.*" />
+          <option name="PATTERN" value="part5.task19.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Hope" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="part4.task17.Hope" />
+    <configuration name="MaxElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="part5.task21.MaxElement" />
       <module name="jc1_homework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="part4.task17.*" />
+          <option name="PATTERN" value="part5.task21.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="part4.task15.Sum" />
+    <configuration name="cv" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="part4.task18.cv" />
       <module name="jc1_homework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="part4.task15.*" />
+          <option name="PATTERN" value="part4.task18.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,19 +110,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Hope" />
-      <item itemvalue="Application.Break" />
+      <item itemvalue="Application.AnotherArray" />
+      <item itemvalue="Application.LastNumber" />
+      <item itemvalue="Application.MaxElement" />
+      <item itemvalue="Application.cv" />
       <item itemvalue="Application.DoWhile" />
-      <item itemvalue="Application.Hhh" />
-      <item itemvalue="Application.Sum" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Hope" />
-        <item itemvalue="Application.Break" />
-        <item itemvalue="Application.Sum" />
+        <item itemvalue="Application.MaxElement" />
+        <item itemvalue="Application.AnotherArray" />
+        <item itemvalue="Application.LastNumber" />
         <item itemvalue="Application.DoWhile" />
-        <item itemvalue="Application.Hhh" />
+        <item itemvalue="Application.cv" />
       </list>
     </recent_temporary>
   </component>
@@ -195,7 +198,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680431430844</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="///">
+      <created>1680445426733</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1680445426733</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
