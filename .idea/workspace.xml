@@ -6,11 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="a85712ec-aa09-4c61-8026-bc64c79bf1b2" name="Changes" comment="///">
       <change afterPath="$PROJECT_DIR$/src/part4/task18/RandomNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/part5/task19/LastNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/part5/task20/AnotherArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/part5/task21/MaxElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/part5/task22/ArraySum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/part5/task23/ArrayReverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/part5/task24/Butterfly.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/part5/task22/ArraySum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/part5/task22/ArraySum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,13 +42,13 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Lenovo/IdeaProjects/jc1_homework/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MaxElement">
-    <configuration name="AnotherArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="part5.task20.AnotherArray" />
+  <component name="RunManager" selected="Application.Butterfly">
+    <configuration name="ArrayReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="part5.task23.ArrayReverse" />
       <module name="jc1_homework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="part5.task20.*" />
+          <option name="PATTERN" value="part5.task23.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -57,12 +56,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DoWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="part4.task14.DoWhile" />
+    <configuration name="Butterfly" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="part5.task24.Butterfly" />
       <module name="jc1_homework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="part4.task14.*" />
+          <option name="PATTERN" value="part5.task24.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,34 +69,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LastNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="part5.task19.LastNumber" />
-      <module name="jc1_homework" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="part5.task19.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MaxElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="part5.task21.MaxElement" />
-      <module name="jc1_homework" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="part5.task21.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="cv" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="part4.task18.cv" />
+    <configuration name="RandomNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="part4.task18.RandomNumber" />
       <module name="jc1_homework" />
       <extension name="coverage">
         <pattern>
@@ -109,20 +82,46 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ssds" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="part5.task23.ssds" />
+      <module name="jc1_homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="part5.task23.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="vbnm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="part5.task24.vbnm" />
+      <module name="jc1_homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="part5.task24.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.AnotherArray" />
-      <item itemvalue="Application.LastNumber" />
-      <item itemvalue="Application.MaxElement" />
-      <item itemvalue="Application.cv" />
-      <item itemvalue="Application.DoWhile" />
+      <item itemvalue="Application.ArrayReverse" />
+      <item itemvalue="Application.Butterfly" />
+      <item itemvalue="Application.RandomNumber" />
+      <item itemvalue="Application.ssds" />
+      <item itemvalue="Application.vbnm" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MaxElement" />
-        <item itemvalue="Application.AnotherArray" />
-        <item itemvalue="Application.LastNumber" />
-        <item itemvalue="Application.DoWhile" />
-        <item itemvalue="Application.cv" />
+        <item itemvalue="Application.Butterfly" />
+        <item itemvalue="Application.vbnm" />
+        <item itemvalue="Application.ArrayReverse" />
+        <item itemvalue="Application.ssds" />
+        <item itemvalue="Application.RandomNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -205,7 +204,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680445426733</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="///">
+      <created>1680454380059</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1680454380059</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
