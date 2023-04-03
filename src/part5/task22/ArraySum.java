@@ -2,7 +2,7 @@ package part5.task22;
 
 public class ArraySum {
     public static void main(String[] args) {
-        int[] num = {44, 700, 311, 43, 56, 55, 7, 85, 500, 101};
+        int[] num = {123, 123, 234, 345, 456, 435, 234, 123, 456, 57};
         int min = num[0];
         int minIndex = 0;
         int max = num[0];
@@ -18,14 +18,51 @@ public class ArraySum {
                 minIndex = i;
             }
         }
-        if (minIndex < maxIndex) {
-            for (int i = minIndex + 1; i < maxIndex; i++) {
+        int maxIndexLowest = maxIndex;
+        int maxIndexHighest = maxIndex;
+        for (int i = maxIndex; i < num.length; i++) {
+            if (num[i] == max) {
+                maxIndexHighest = i;
+            }
+        }
+        int minIndexLowest = minIndex;
+        int minIndexHighest = minIndex;
+        for (int i = minIndex; i < num.length; i++) {
+            if (num[i] == min) {
+                minIndexHighest = i;
+            }
+        }
+
+        if ((minIndexLowest < maxIndexLowest) && (minIndexHighest < maxIndexHighest)) {
+            for (int i = minIndexLowest + 1; i < maxIndexHighest; i++) {
                 sum += num[i];
             }
         }
-        if (maxIndex < minIndex) {
-            for (int i = maxIndex + 1; i < minIndex; i++) {
+        if ((maxIndexLowest < minIndexLowest) && (maxIndexHighest < minIndexHighest)) {
+            for (int i = maxIndexLowest + 1; i < minIndexHighest; i++) {
                 sum += num[i];
+            }
+        }
+        if ((minIndexLowest < maxIndexLowest) && (maxIndexHighest < minIndexHighest)) {
+            if ((maxIndexHighest - minIndexLowest) >= (minIndexHighest - maxIndexLowest)) {
+                for (int i = minIndexLowest + 1; i < maxIndexHighest; i++) {
+                    sum += num[i];
+                }
+            } else {
+                for (int i = maxIndexLowest + 1; i < minIndexHighest; i++) {
+                    sum += num[i];
+                }
+            }
+        }
+        if ((maxIndexLowest < minIndexLowest) && (minIndexHighest < maxIndexHighest)) {
+            if ((maxIndexHighest - minIndexLowest) >= (maxIndexLowest - minIndexHighest)) {
+                for (int i = minIndexLowest + 1; i < maxIndexHighest; i++) {
+                    sum += num[i];
+                }
+            } else {
+                for (int i = maxIndexLowest + 1; i < minIndexHighest; i++) {
+                    sum += num[i];
+                }
             }
         }
         System.out.println(sum);
