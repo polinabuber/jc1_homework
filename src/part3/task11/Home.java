@@ -2,9 +2,9 @@ package part3.task11;
 
 public class Home {
     public static void main(String[] args) {
-        int a = 5, b = 10;
-        int c = 10, d = 15;
-        int e = 20, f = 25;
+        int a = 1, b = 1;
+        int c = 1, d = 10;
+        int e = 2, f =2;
 
         if (f >= (a + c) && (e >= b || e >= d)) {
             System.out.println("Дома помещаются");

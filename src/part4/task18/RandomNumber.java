@@ -2,7 +2,7 @@ package part4.task18;
 
 public class RandomNumber {
     public static void main(String[] args) {
-        int num = 1205;
+        int num = 12050000;
         int i = 0;
         int j;
         String accounting = "";

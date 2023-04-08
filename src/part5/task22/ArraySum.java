@@ -2,7 +2,7 @@ package part5.task22;
 
 public class ArraySum {
     public static void main(String[] args) {
-        int[] num = {123, 123, 234, 345, 456, 435, 234, 123, 456, 57};
+        int[] num = {3, 3, 0, 0, 0, 0, 0, 0, 1, 1};
         int min = num[0];
         int minIndex = 0;
         int max = num[0];

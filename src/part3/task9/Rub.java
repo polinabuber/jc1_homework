@@ -2,7 +2,7 @@ package part3.task9;
 
 public class Rub {
     public static void main(String[] args) {
-        int rubles = -63;
+        int rubles = 12;
 
         if (rubles % 10 == 1) {
             System.out.println(rubles + " рубль");
