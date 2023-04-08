@@ -2,16 +2,12 @@ package part6.task25;
 
 
 public final class Time {
-    public static void main(String[] args) {
-       Time a = new Time(20, 30, 8);
-        System.out.println(a.compareTo(ofSeconds(73808)));
-    }
 
     private final int hours;
     private final int minutes;
     private final int seconds;
 
-    private Time(int hours, int minutes, int seconds) {
+    Time(int hours, int minutes, int seconds) {
         this.hours = hours;
         this.minutes = minutes;
         this.seconds = seconds;
