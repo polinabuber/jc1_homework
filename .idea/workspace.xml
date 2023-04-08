@@ -8,8 +8,8 @@
       <change afterPath="$PROJECT_DIR$/src/part6/task26/Automat.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/part6/task26/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/part6/task26/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/progress/Progress.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/part6/task25/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/part6/task25/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +42,7 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Lenovo/IdeaProjects/jc1_homework/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Progress">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Automat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="part6.task26.Automat" />
       <module name="jc1_homework" />
@@ -117,10 +117,10 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Progress" />
         <item itemvalue="Application.part6.task26.Main" />
         <item itemvalue="Application.Automat" />
-        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Duration" />
       </list>
     </recent_temporary>
@@ -267,7 +267,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680976943147</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="///">
+      <created>1680982622268</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1680982622268</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
