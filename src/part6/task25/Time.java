@@ -1,6 +1,5 @@
 package part6.task25;
 
-
 public final class Time {
 
     private final int hours;

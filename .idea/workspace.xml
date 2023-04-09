@@ -5,11 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a85712ec-aa09-4c61-8026-bc64c79bf1b2" name="Changes" comment="///">
-      <change afterPath="$PROJECT_DIR$/src/part6/task26/Automat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/part6/task26/ATM_machine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/part6/task26/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/part6/task26/Banknotes.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/part6/task26/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/part6/task26/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/part6/task26/Storage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/part6/task26/UserDisplay.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/part6/task25/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/part6/task25/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/part6/task25/Time.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/part6/task25/Time.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +45,7 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Lenovo/IdeaProjects/jc1_homework/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.part6.task26.Main">
     <configuration name="Automat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="part6.task26.Automat" />
       <module name="jc1_homework" />
@@ -56,8 +59,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Duration" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="part6.task25.Duration" />
+    <configuration name="H1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="part6.task26.H1" />
       <module name="jc1_homework" />
       <extension name="coverage">
         <pattern>
@@ -70,11 +73,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="part6.task25.Main" />
+      <option name="MAIN_CLASS_NAME" value="task226.Main" />
       <module name="jc1_homework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="part6.task25.*" />
+          <option name="PATTERN" value="task26.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Progress" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="progress.Progress" />
+    <configuration name="Task25" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="part6.task26.Task25" />
       <module name="jc1_homework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="progress.*" />
+          <option name="PATTERN" value="part6.task26.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,19 +112,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Progress" />
+      <item itemvalue="Application.H1" />
+      <item itemvalue="Application.task226.Main" />
+      <item itemvalue="Application.Task25" />
       <item itemvalue="Application.Automat" />
-      <item itemvalue="Application.Duration" />
       <item itemvalue="Application.part6.task26.Main" />
-      <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Progress" />
         <item itemvalue="Application.part6.task26.Main" />
+        <item itemvalue="Application.Task25" />
+        <item itemvalue="Application.task226.Main" />
         <item itemvalue="Application.Automat" />
-        <item itemvalue="Application.Duration" />
+        <item itemvalue="Application.H1" />
       </list>
     </recent_temporary>
   </component>
@@ -274,8 +277,26 @@
       <option name="project" value="LOCAL" />
       <updated>1680982622268</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="///">
+      <created>1680982878491</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1680982878491</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="///" />
