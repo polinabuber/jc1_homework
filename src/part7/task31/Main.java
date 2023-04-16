@@ -9,8 +9,7 @@ public class Main {
         Scanner in = new Scanner(System.in);
         System.out.println("Введите текст:");
         String input = in.nextLine();
-        String inputReplace = input.replaceAll
-                ("<^p>|<p[^<>]+>", "<p>");
+        String inputReplace = input.replaceAll("<^p>|<p[^<>]+>", "<p>");
         System.out.println(inputReplace);
         in.close();
     }

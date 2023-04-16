@@ -5,7 +5,7 @@ public class Main {
     public static void main(String[] args) {
 
         long time1 = System.currentTimeMillis();
-        concatString("aaabbbccc", 1_000_000);
+        concatString("aaabbbccc", 1_000);
         time1 = System.currentTimeMillis() - time1;
         System.out.println("String: " + time1);
 

@@ -5,8 +5,8 @@ import java.util.Scanner;
 
 
 public class LastLetter {
+    public static void main(String[] args) {
 
-    public void lastLetter() {
         Scanner in = new Scanner(System.in);
         System.out.println("Введите текст: ");
         String str = in.nextLine();

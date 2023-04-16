@@ -5,14 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a85712ec-aa09-4c61-8026-bc64c79bf1b2" name="Changes" comment="///">
-      <change afterPath="$PROJECT_DIR$/src/part7/task27/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/part7/task28/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/part7/task29/LastLetter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/part7/task29/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/part7/task30/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/part7/task31/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/part7/task32/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/part7/task29/LastLetter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/part7/task29/LastLetter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/part7/task29/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/part7/task31/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/part7/task31/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/part7/task32/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/part7/task32/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +42,7 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Lenovo/IdeaProjects/jc1_homework/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.part7.task29.Main">
+  <component name="RunManager" selected="Application.LastLetter">
     <configuration name="LastLetter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="part7.task29.LastLetter" />
       <module name="jc1_homework" />
@@ -120,10 +117,10 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.part7.task29.Main" />
-        <item itemvalue="Application.part7.task32.Main" />
         <item itemvalue="Application.LastLetter" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.part7.task32.Main" />
+        <item itemvalue="Application.part7.task29.Main" />
         <item itemvalue="Application.part7.task30.Main" />
       </list>
     </recent_temporary>
@@ -291,7 +288,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681060577410</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="///">
+      <created>1681668919514</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1681668919514</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
