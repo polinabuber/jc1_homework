@@ -5,33 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a85712ec-aa09-4c61-8026-bc64c79bf1b2" name="Changes" comment="///">
-      <change afterPath="$PROJECT_DIR$/src/part8/task34/Cards.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/part8/task34/ClassicCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/part8/task34/CreditCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/part8/task34/DebetCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/part8/task34/ExpressCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/part8/task34/InternationalCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/part8/task34/LocalCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/part8/task34/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/part8/task34/TypeOfOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/part8/task34/TypeOfPayment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/part8/task34/TypeOfRegistration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/part8/task35/Manager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/part8/task35/Master.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/part8/task35/Staff.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/part8/task35/Worker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/part9/task36/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/part9/task36/Seasons.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/part9/task37/CheckInformation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/part9/task37/Input.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/part9/task37/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/part9/task38/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/part9/task39/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/part9/task39/Garage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/part9/task39/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/part9/task39/Motorcycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/part9/task39/Vehicle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/part8/task34/ClassicCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/part8/task34/ClassicCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/part8/task34/CreditCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/part8/task34/CreditCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/part8/task34/DebetCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/part8/task34/DebetCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/part8/task34/ExpressCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/part8/task34/ExpressCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/part8/task34/InternationalCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/part8/task34/InternationalCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/part8/task34/LocalCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/part8/task34/LocalCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/part8/task34/TypeOfOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/part8/task34/TypeOfOperations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/part8/task34/TypeOfPayment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/part8/task34/TypeOfPayment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/part8/task34/TypeOfRegistration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/part8/task34/TypeOfRegistration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/part8/task35/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/part8/task35/Manager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/part8/task35/Master.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/part8/task35/Master.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/part8/task35/Worker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/part8/task35/Worker.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -325,7 +311,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681670072202</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="///">
+      <created>1682347158576</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1682347158576</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

@@ -1,6 +1,9 @@
 package part8.task35;
 
 public class Master extends Staff {
+    public Master(){
+        super();
+    }
 
     int percent;
 
