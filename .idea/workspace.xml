@@ -5,19 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a85712ec-aa09-4c61-8026-bc64c79bf1b2" name="Changes" comment="///">
+      <change afterPath="$PROJECT_DIR$/src/part8/task33/Appliances.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/part8/task33/ElectricKettle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/part8/task33/KitchenAppliances.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/part8/task33/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/part8/task33/Microwave.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/part8/task34/ClassicCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/part8/task34/ClassicCard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/part8/task34/CreditCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/part8/task34/CreditCard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/part8/task34/DebetCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/part8/task34/DebetCard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/part8/task34/ExpressCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/part8/task34/ExpressCard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/part8/task34/InternationalCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/part8/task34/InternationalCard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/part8/task34/LocalCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/part8/task34/LocalCard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/part8/task34/TypeOfOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/part8/task34/TypeOfOperations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/part8/task34/TypeOfPayment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/part8/task34/TypeOfPayment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/part8/task34/TypeOfRegistration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/part8/task34/TypeOfRegistration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/part8/task35/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/part8/task35/Manager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/part8/task35/Master.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/part8/task35/Master.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/part8/task35/Worker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/part8/task35/Worker.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +44,7 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Lenovo/IdeaProjects/jc1_homework/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.part8.task33.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="part8.task34.Main" />
       <module name="jc1_homework" />
@@ -104,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="part9.task39.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="part9.task39.Main" />
+    <configuration name="part8.task33.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="part8.task33.Main" />
       <module name="jc1_homework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="part9.task39.*" />
+          <option name="PATTERN" value="part8.task33.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,15 +115,15 @@
       <item itemvalue="Application.Manager" />
       <item itemvalue="Application.Master" />
       <item itemvalue="Application.Worker" />
-      <item itemvalue="Application.part9.task39.Main" />
+      <item itemvalue="Application.part8.task33.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.part8.task33.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Worker" />
         <item itemvalue="Application.Master" />
         <item itemvalue="Application.Manager" />
-        <item itemvalue="Application.part9.task39.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -318,7 +311,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682347158576</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="///">
+      <created>1682348022353</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1682348022353</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
