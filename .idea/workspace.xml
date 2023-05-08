@@ -5,25 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a85712ec-aa09-4c61-8026-bc64c79bf1b2" name="Changes" comment="///">
-      <change afterPath="$PROJECT_DIR$/src/part8/task33/Fridges.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/part8/task33/Irons.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/part8/task33/Laptops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/part8/task33/Microwaves.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/part8/task33/Multimedia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/part8/task33/Plug.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/part8/task33/ToComputers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/part8/task33/ToHome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/part8/task33/ToKitchen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/part8/task33/WashingMachines.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/part8/task3333/Appliances.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/part8/task3333/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/part10/task40/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/part10/task41/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/part10/task42/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/part10/task43/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/part8/task33/Appliances.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/part8/task33/Appliances.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/part8/task33/ElectricKettle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/part8/task3333/ElectricKettle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/part8/task33/KitchenAppliances.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/part8/task3333/KitchenAppliances.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/part8/task33/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/part8/task33/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/part8/task33/Microwave.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/part8/task3333/Microwave.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/part8/task34/Cards.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/part8/task34/Cards.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/progress/Progress.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/progress/Progress.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,13 +45,13 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Lenovo/IdeaProjects/jc1_homework/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.part8.task3333.Main">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="part8.task34.Main" />
+      <option name="MAIN_CLASS_NAME" value="part10.task43.Main" />
       <module name="jc1_homework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="part8.task34.*" />
+          <option name="PATTERN" value="part10.task43.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,12 +59,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Manager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="part8.task35.Manager" />
+    <configuration name="Progress" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="progress.Progress" />
       <module name="jc1_homework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="part8.task35.*" />
+          <option name="PATTERN" value="progress.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Master" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="part8.task35.Master" />
+    <configuration name="part10.task40.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="part10.task40.Main" />
       <module name="jc1_homework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="part8.task35.*" />
+          <option name="PATTERN" value="part10.task40.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Worker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="part8.task35.Worker" />
+    <configuration name="part10.task41.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="part10.task41.Main" />
       <module name="jc1_homework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="part8.task35.*" />
+          <option name="PATTERN" value="part10.task41.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="part8.task3333.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="part8.task3333.Main" />
+    <configuration name="part10.task42.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="part10.task42.Main" />
       <module name="jc1_homework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="part8.task3333.*" />
+          <option name="PATTERN" value="part10.task42.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,19 +112,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.part8.task3333.Main" />
+      <item itemvalue="Application.part10.task40.Main" />
+      <item itemvalue="Application.part10.task41.Main" />
+      <item itemvalue="Application.part10.task42.Main" />
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Manager" />
-      <item itemvalue="Application.Master" />
-      <item itemvalue="Application.Worker" />
+      <item itemvalue="Application.Progress" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.part8.task3333.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Worker" />
-        <item itemvalue="Application.Master" />
-        <item itemvalue="Application.Manager" />
+        <item itemvalue="Application.part10.task42.Main" />
+        <item itemvalue="Application.part10.task41.Main" />
+        <item itemvalue="Application.part10.task40.Main" />
+        <item itemvalue="Application.Progress" />
       </list>
     </recent_temporary>
   </component>
@@ -339,7 +326,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682351451484</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="///">
+      <created>1682371142735</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1682371142735</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
