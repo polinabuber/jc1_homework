@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a85712ec-aa09-4c61-8026-bc64c79bf1b2" name="Changes" comment="///">
-      <change afterPath="$PROJECT_DIR$/src/part10/task40/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/part10/task41/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/part10/task42/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/part10/task43/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/progress/Progress.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/progress/Progress.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/part10/task40/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/part10/task40/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +41,7 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Lenovo/IdeaProjects/jc1_homework/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.part10.task40.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="part10.task43.Main" />
       <module name="jc1_homework" />
@@ -120,10 +116,10 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.part10.task40.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.part10.task42.Main" />
         <item itemvalue="Application.part10.task41.Main" />
-        <item itemvalue="Application.part10.task40.Main" />
         <item itemvalue="Application.Progress" />
       </list>
     </recent_temporary>
@@ -333,7 +329,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682371142735</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="///">
+      <created>1683577672697</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1683577672697</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

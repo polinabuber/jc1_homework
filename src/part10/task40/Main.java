@@ -14,7 +14,7 @@ public class Main {
         }
         System.out.println("Оценки учеников: " + grades);
 
-        grades.removeIf(grade -> grade <= 4);
+        grades.removeIf(grade -> grade <= 3);
         System.out.println("Положительные оценки: " + grades);
     }
 
