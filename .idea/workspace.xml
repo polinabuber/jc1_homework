@@ -5,14 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a85712ec-aa09-4c61-8026-bc64c79bf1b2" name="Changes" comment="///">
-      <change afterPath="$PROJECT_DIR$/folder1/folder2/folder3/allNumbers.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/folder1/folder2/folder3/file1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/folder1/folder2/folder3/file2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/folder1/folder2/folder3/file3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/folder1/folder2/folder3/file4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/folder1/folder2/folder3/file5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/folder1/folder2/folder3/fileList.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/part12/task51/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/part12/task52/CreatePersons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/part12/task52/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/part12/task52/persons.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,19 +46,20 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\IdeaProjects\jc1_homework\src\part12\task52" />
+      <recent name="C:\Users\Lenovo\IdeaProjects\jc1_homework\src\part12\task51" />
       <recent name="C:\Users\Lenovo\IdeaProjects\jc1_homework\src\part12\task50" />
       <recent name="C:\Users\Lenovo\IdeaProjects\jc1_homework\src\part12\task48" />
       <recent name="C:\Users\Lenovo\IdeaProjects\jc1_homework\src\part12\task49" />
-      <recent name="C:\Users\Lenovo\IdeaProjects\jc1_homework\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.part12.task51.Main">
-    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="part12.task48.Main2" />
+  <component name="RunManager" selected="Application.CreatePersons">
+    <configuration name="CreatePersons" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="part12.task52.CreatePersons" />
       <module name="jc1_homework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="part12.task48.*" />
+          <option name="PATTERN" value="part12.task52.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,19 +120,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.CreatePersons" />
       <item itemvalue="Application.part12.task50.Main" />
       <item itemvalue="Application.part12.task51.Main" />
-      <item itemvalue="Application.Main2" />
       <item itemvalue="Application.part12.task49.Main" />
       <item itemvalue="Application.part12.task48.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CreatePersons" />
         <item itemvalue="Application.part12.task51.Main" />
         <item itemvalue="Application.part12.task50.Main" />
         <item itemvalue="Application.part12.task49.Main" />
         <item itemvalue="Application.part12.task48.Main" />
-        <item itemvalue="Application.Main2" />
       </list>
     </recent_temporary>
   </component>
@@ -394,7 +390,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684350266533</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="///">
+      <created>1684351546059</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1684351546059</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
