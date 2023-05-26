@@ -1,0 +1,10 @@
+Person{name='Judy', surname='Clark', age=41}
+Person{name='Grace', surname='Clark', age=5}
+Person{name='Eve', surname='Jackson', age=68}
+Person{name='Frank', surname='Jackson', age=46}
+Person{name='Heidi', surname='Jackson', age=4}
+Person{name='Eve', surname='Anderson', age=58}
+Person{name='Eve', surname='Evans', age=56}
+Person{name='Grace', surname='Davis', age=26}
+Person{name='Charlie', surname='Harris', age=11}
+Person{name='Grace', surname='Harris', age=60}
