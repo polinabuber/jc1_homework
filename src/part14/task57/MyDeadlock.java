@@ -10,7 +10,11 @@ public class MyDeadlock {
         Thread t1 = new Thread(() -> {
             synchronized (resource1) {
                 System.out.println("Thread 1: locked resource 1");
-                try { Thread.sleep(50); } catch (InterruptedException e) {}
+                try {
+                    Thread.sleep(50);
+                } catch (InterruptedException e) {
+                    e.printStackTrace();
+                }
                 synchronized (resource2) {
                     System.out.println("Thread 1: locked resource 2");
                 }
@@ -20,7 +24,11 @@ public class MyDeadlock {
         Thread t2 = new Thread(() -> {
             synchronized (resource2) {
                 System.out.println("Thread 2: locked resource 2");
-                try { Thread.sleep(50); } catch (InterruptedException e) {}
+                try {
+                    Thread.sleep(50);
+                } catch (InterruptedException e) {
+                    e.printStackTrace();
+                }
                 synchronized (resource3) {
                     System.out.println("Thread 2: locked resource 3");
                 }
@@ -30,7 +38,11 @@ public class MyDeadlock {
         Thread t3 = new Thread(() -> {
             synchronized (resource3) {
                 System.out.println("Thread 3: locked resource 3");
-                try { Thread.sleep(50); } catch (InterruptedException e) {}
+                try {
+                    Thread.sleep(50);
+                } catch (InterruptedException e) {
+                    e.printStackTrace();
+                }
                 synchronized (resource1) {
                     System.out.println("Thread 3: locked resource 1");
                 }
